@@ -30,12 +30,12 @@ h1{
     font-weight: bolder;
     background-color: rgb(75, 210, 30);
 }
-.fizz{
+.Fizz{
     background-color: aqua;
 }
-.buzz{
+.Buzz{
     background-color: bisque;
 }
-.fizzBuzz{
+.FizzBuzz{
     background-color: darkgray;
 }
